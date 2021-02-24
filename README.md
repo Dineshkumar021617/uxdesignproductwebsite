@@ -29,5 +29,4 @@ Preview the prototype.
 ![output](./static/img/dkcontactus.png)
 
 ## RESULT:
-    Thus a website is designed for a company's products and details and is hosted in
-the URL http:/dineshkumars.student.saveetha.in:8000 .
+    Thus a website is designed for a company's products and details using ux design
