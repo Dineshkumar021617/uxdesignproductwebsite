@@ -29,4 +29,4 @@ Preview the prototype.
 ![output](./static/img/dkcontactus.png)
 
 ## RESULT:
-    Thus a website is designed for a company's products and details using ux design
+Thus a website is designed for a company's products and details using ux design
