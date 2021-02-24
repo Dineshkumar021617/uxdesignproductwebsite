@@ -17,12 +17,17 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-
+![output](./static/img/designscreen1.png)
 
 ## WIREFRAME:
-
+![output](./static/img/wireframe1.png)
 
 ## PROTOTYPE:
-
+![output](./static/img/dkhome.png)
+![output](./static/img/dkproducts.png)
+![output](./static/img/dkpeople.png)
+![output](./static/img/dkcontactus.png)
 
 ## RESULT:
+    Thus a website is designed for a company's products and details and is hosted in
+the URL http:/dineshkumars.student.saveetha.in:8000 .
